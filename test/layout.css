@@ -1,0 +1,33 @@
+/* element type */
+.dis-inline{
+    display:inline-block;
+}
+.dis-in-block{
+    display:inline-block;
+}
+.dis-block{
+    display:inline-block;
+}
+
+/* layout */
+.ps-static{
+    position:static;
+}
+.ps-relative{
+    position:relative;
+}
+.ps-absolute{
+    position:absolute;
+}
+.ps-fixed{
+    position:fixed;
+}
+
+
+/* padding */
+.pa-0{
+    padding:0
+}
+.pa-1{
+    padding:5px
+}
