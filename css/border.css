@@ -1,0 +1,6 @@
+.outline-none input,.outline-none textarea{
+    outline: none;
+}
+.outline-none input:focus,.outline-none textarea:focus{
+    outline: none;
+}

@@ -1,0 +1,29 @@
+.txt-center{
+    text-align: center;
+}
+.txt-left{
+    text-align: left;
+}
+.txt-right{
+    text-align: right;
+}
+.txt-weight-normal{
+    font-weight: normal;
+}
+.txt-weight-lighter{
+    font-weight: lighter;
+}
+.txt-weight-bold{
+    font-weight: bold;
+}
+.txt-weight-bolder{
+    font-weight: bolder;
+}
+.txt-ellip{
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+.txt-clip{
+    text-overflow: clip;
+}

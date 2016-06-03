@@ -5,6 +5,19 @@
     -o-user-select:none;
     user-select:none;
 }
+.overflow-hide{
+    overflow: hidden;
+}
+.hide{
+    display: none;
+    opacity: 0;
+    visibility: visible;
+}
+.show{
+    display: block;
+    opacity: 1;
+    visibility: visible;
+}
 .transition{
     -webkit-transition-property:all;
     -moz-transition-property:all;
