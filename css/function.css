@@ -5,13 +5,13 @@
     -o-user-select:none;
     user-select:none;
 }
-.overflow-hide{
+.out-hide{
     overflow: hidden;
 }
 .hide{
     display: none;
     opacity: 0;
-    visibility: visible;
+    visibility: hidden;
 }
 .show{
     display: block;
